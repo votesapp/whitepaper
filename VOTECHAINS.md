@@ -53,6 +53,8 @@ Students from the West Virginia University WVU, [Ricky Kirkendall](https://twitt
 
 [V-Initiative](http://www.v-initiative.org/) proposed a decentralized voting app but the project seems [dead](http://v-app.io/landing) already.
 
+The team for [Appstimmung](http://appstimmung.de/) wants to provide a blueprint for a better democratic process and develop blockchain based tools which educate, inform, support the decision making. This whitepaper is initialized by them and tries to connect the projects above by promoting an improved cross-initiatives collaboration. Browse the repositories on [Github](https://github.com/VotesApp).
+
 ### Identity and Authentication
 
 ***Draft***
@@ -83,6 +85,12 @@ Students from the West Virginia University WVU, [Ricky Kirkendall](https://twitt
 ## Outlook
 
 ## Contribute
+
+Issues can directly be raised on here on [Github](https://github.com/VotesApp/whitepaper/issues), refer the related section and explain in detail how the paper can be improved.
+
+Corrections and suggestions can be directly contributed via [pull requests](https://github.com/VotesApp/whitepaper/pulls).
+
+Contributors can add their contact details to the list of [authors](AUTHORS.md).
 
 ## License
 
