@@ -2,4 +2,4 @@
 
 In random order.
 
-* Afri Schoedon <afri@appstimmung.de>
+* Afri Schoedon &lt;afri@appstimmung.de&gt;
