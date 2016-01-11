@@ -4,7 +4,11 @@
 
 ## Abstract
 
+***Draft***
+
 ## Motivation
+
+***Draft***
 
 ## Related Projects
 
@@ -27,9 +31,12 @@ message consensus and voting schemes, [PDF](https://jesper.borgstrup.dk/master-t
 * BitVote, a timebased voting DApp on Ethereum [whitepaper](https://github.com/arkbg1/BitVote/wiki/*A*-plan), [video](https://www.youtube.com/watch?v=z-BtgF3oqoA), [demo](https://bitvote.github.io/)
 * [Nemos.io](http://nemos.io/) blockchain-proofed decision making on Ethereum without gas costs: [source code](https://github.com/netparty-france/nemos.io/)
 * [Blockchain Apparatus](http://blockchainapparatus.com/voting/) a blockchain secured voting machine
+* [BitCongress](http://www.bitcongress.org/), decentralized voting platform: [whitepaper](http://www.bitcongress.org/BitCongressWhitepaper.pdf)
 * SureVoting, WVU student government voting app: [news](http://www.thedaonline.com/news/article_c23dd902-8e7c-11e5-881d-db3cafa77e63.html), [news](http://www.coindesk.com/west-virginia-university-student-government-blockchain-voting/)
 * [Votecoin](https://votecoin.wordpress.com), a hash based voting technology
 * Quadratic Voting: [camp](http://quadraticvoting.on.ether.camp/ide.html), [video](https://www.youtube.com/watch?v=xz9dGRs7FOQ), [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531), [blog](http://ericposner.com/quadratic-voting/)
+* [AgoraVoting](https://agoravoting.com/) had the [idea](https://blog.agoravoting.org/index.php/2013/11/28/a-bitcoin-based-completely-distributed-voting-system/) for a distributed voting system but [failed](https://blockchain.info/address/1EwqtN6GwHmkfYEfxGhuVcjrNBdQwvXMd3) to crowdfund the development
+* [V-Initiative](http://www.v-initiative.org/) proposed a decentralized voting app but the project seems [dead](http://v-app.io/landing).
 
 ### Identity and Authentication
 
@@ -45,6 +52,14 @@ message consensus and voting schemes, [PDF](https://jesper.borgstrup.dk/master-t
 ### Storage
 
 ***Draft***
+
+* [Storj](http://storj.io/) decentralized blockchain cloud storage
+* [IPFS](https://ipfs.io/) peer-to-peer hypermedia protocol
+* [SAFE Network](https://safenetwork.org/), a peer-to-peer data storage network
+* [Swarm](https://github.com/ethereum/go-ethereum/wiki/Swarm---distributed-preimage-archive) distributed preimage archive
+* [Sia](http://sia.tech/) distributed collaborative data storage by managed smart contracts
+* [Filecoin](http://filecoin.io/) data storage network based on bitcoin: [whitepaper](http://filecoin.io/filecoin.pdf)
+* [Eris](https://erisindustries.com/) distributed file storage services by smart contracts
 
 ## Target Issues
 
