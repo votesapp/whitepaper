@@ -12,6 +12,8 @@
 
 ### Propose and Vote
 
+***Draft***
+
 * Blcockchain support for [DemocracyOS](http://democracyos.org/): [mockups](https://www.newschallenge.org/challenge/elections/entries/blockchain-support-for-open-source-platform-democracyos), [blog](http://blog.democracyos.org/post/114076491913/blockchain-support-for-democracyos-we-want-to-add), [blog](http://blog.democracyos.org/post/122357355613/were-making-a-live-hangout-to-talk-decentralized)
 
 ![DemocracyOS Mockup #1](img/dem_os_0.png)
@@ -29,8 +31,20 @@ message consensus and voting schemes, [PDF](https://jesper.borgstrup.dk/master-t
 * [Votecoin](https://votecoin.wordpress.com), a hash based voting technology
 * Quadratic Voting: [camp](http://quadraticvoting.on.ether.camp/ide.html), [video](https://www.youtube.com/watch?v=xz9dGRs7FOQ), [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531), [blog](http://ericposner.com/quadratic-voting/)
 
-
 ### Identity and Authentication
+
+***Draft***
+
+* Schiener, Dominik (2015): A new Identity Model with Prototype [blog](http://composui.com/2015/09/08/a-treatise-on-identity-part-2-a-new-identity-model-with-prototype/)
+* [Onename](https://onename.com/), blockchain id
+* [ShoCard](http://www.shocard.com/), blockchain identity card
+* [EtherID](http://etherid.org/), the Ethereum name registry: [source code](https://github.com/lexansoft/EtherID.org)
+* [Proof-of-Individuality](http://proofofindividuality.tk/) anti-sybil token: [source code](https://github.com/d11e9/poi)
+* [EtherReal](http://etherre.al/wp/), trustless proof of personal identity
+
+### Storage
+
+***Draft***
 
 ## Target Issues
 
