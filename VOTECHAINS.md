@@ -35,16 +35,23 @@ The following projects rather focus on applications on top of blockchains, enabl
 
 In 2014 [Jesper Borgstrup](https://jesper.borgstrup.dk/2015/01/masters-thesis-private-trustless-decentralized-message-consensus-voting-schemes/) wrote a master thesis on 'Private, trustless and decentralized message consensus and voting schemes' ([PDF](https://jesper.borgstrup.dk/master-thesis-report.pdf)). The protocol uses blockchain-technology and invertible bloom lookup tables for defining deadlines and timestamping of messages. Linkable ring signatures provide a scheme suitable for signing votes. Source code is available on [Github](https://github.com/jesperborgstrup/PyBitmessageVote).
 
+[BitVote](http://bitvote.net) is an Ethereum decentralized application (DApp) using encryption chains and a peer-to-peer hybrid technology for the purpose of proposal collaboration, information sharing and voting. There is a whitepaper [draft](https://github.com/arkbg1/BitVote/wiki/*A*-plan), a [video](https://www.youtube.com/watch?v=z-BtgF3oqoA) and a first [demo](https://bitvote.github.io/) available.
 
-* BitVote, a timebased voting DApp on Ethereum [whitepaper](https://github.com/arkbg1/BitVote/wiki/*A*-plan), [video](https://www.youtube.com/watch?v=z-BtgF3oqoA), [demo](https://bitvote.github.io/)
-* [Nemos.io](http://nemos.io/) blockchain-proofed decision making on Ethereum without gas costs: [source code](https://github.com/netparty-france/nemos.io/)
-* [Blockchain Apparatus](http://blockchainapparatus.com/voting/) a blockchain secured voting machine
-* [BitCongress](http://www.bitcongress.org/), decentralized voting platform: [whitepaper](http://www.bitcongress.org/BitCongressWhitepaper.pdf)
-* SureVoting, WVU student government voting app: [news](http://www.thedaonline.com/news/article_c23dd902-8e7c-11e5-881d-db3cafa77e63.html), [news](http://www.coindesk.com/west-virginia-university-student-government-blockchain-voting/)
-* [Votecoin](https://votecoin.wordpress.com), a hash based voting technology
-* Quadratic Voting: [camp](http://quadraticvoting.on.ether.camp/ide.html), [video](https://www.youtube.com/watch?v=xz9dGRs7FOQ), [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531), [blog](http://ericposner.com/quadratic-voting/)
-* [AgoraVoting](https://agoravoting.com/) had the [idea](https://blog.agoravoting.org/index.php/2013/11/28/a-bitcoin-based-completely-distributed-voting-system/) for a distributed voting system but [failed](https://blockchain.info/address/1EwqtN6GwHmkfYEfxGhuVcjrNBdQwvXMd3) to crowdfund the development
-* [V-Initiative](http://www.v-initiative.org/) proposed a decentralized voting app but the project seems [dead](http://v-app.io/landing).
+Developed by France's netparty, [Nemos.io](http://nemos.io/) is a blockchain-proofed decision making tool based on Ethereum with eleminated gas costs. The source is available on [Github](https://github.com/netparty-france/nemos.io/).
+
+The [Blockchain Apparatus](http://blockchainapparatus.com/voting/) aims to become a blockchain-secured voting machine.
+
+Students from the West Virginia University WVU, [Ricky Kirkendall](https://twitter.com/clickycrocodile) and [Ankur Kumar](https://twitter.com/ankurkwv), are [currently](http://www.thedaonline.com/news/article_c23dd902-8e7c-11e5-881d-db3cafa77e63.html) [creating](http://www.coindesk.com/west-virginia-university-student-government-blockchain-voting/) SureVoting, a student government voting app for iPads. There is no concept or code released yet.
+
+[Votecoin](https://votecoin.wordpress.com) is a proposal for a hash based voting technology. The [whitepaper](https://votecoin.wordpress.com/about/) calls for a fair, transparent, practical solution but fails to deliver details.
+
+(Vote)&sup2; emerged from the ether camp [hackathon](http://quadraticvoting.on.ether.camp/ide.html) in december 2015 and developed a quadratic voting dapp based on the Ethereum network. Checkout the demo [video](https://www.youtube.com/watch?v=xz9dGRs7FOQ).
+
+[AgoraVoting](https://agoravoting.com/) had the [idea](https://blog.agoravoting.org/index.php/2013/11/28/a-bitcoin-based-completely-distributed-voting-system/) to add a distributed voting system on top their working solutions but [failed](https://blockchain.info/address/1EwqtN6GwHmkfYEfxGhuVcjrNBdQwvXMd3) to crowdfund the development.
+
+[BitCongress](http://www.bitcongress.org/) claims to be a decentralized voting platform but is lacking references or source code, a [whitepaper](http://www.bitcongress.org/BitCongressWhitepaper.pdf) is available though.
+
+[V-Initiative](http://www.v-initiative.org/) proposed a decentralized voting app but the project seems [dead](http://v-app.io/landing) already.
 
 ### Identity and Authentication
 
