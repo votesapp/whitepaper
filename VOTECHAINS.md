@@ -12,22 +12,30 @@
 
 ## Related Projects
 
-***Draft***
+Below is a short overview of existing research, organizations and implementations of blockchain based democracy applications.
 
 ### Propose and Vote
 
-***Draft***
+Voting is a key functionality of blockchain technology. The underlying consensus protocols on most distritubted peer-to-peer solutions always have to include ways to update protocols and restore consensus upon disputes. A prominent example is the Bitcoin Improvement Proposal [BIP0034](https://github.com/bitcoin/bips/blob/master/bip-0034.mediawiki#Specification), of the infamous crypto-currency [Bitcoin](http://bitcoin.org), proposing miner behaviour on softforking mechanics.
 
-* Blcockchain support for [DemocracyOS](http://democracyos.org/): [mockups](https://www.newschallenge.org/challenge/elections/entries/blockchain-support-for-open-source-platform-democracyos), [blog](http://blog.democracyos.org/post/114076491913/blockchain-support-for-democracyos-we-want-to-add), [blog](http://blog.democracyos.org/post/122357355613/were-making-a-live-hangout-to-talk-decentralized)
+This is voting on a very technical level and not considered part of this whitepaper.
 
-![DemocracyOS Mockup #1](img/dem_os_0.png)
-![DemocracyOS Mockup #2](img/dem_os_1.png)
+The following projects rather focus on applications on top of blockchains, enabling democratic participation in any kind of groups or societies.
 
-* [Democracy.earth](http://democracy.earth/), community and research project by Santiago Siri and Pia Mancini on blockchain voting and identity
-* [Follow My Vote](https://followmyvote.com/) Bitshares stake-weighted blockchain voting by Adam Ernest et al.: [whitepaper](https://followmyvote.com/wp-content/uploads/2014/08/The-Key-To-Unlocking-The-Black-Box-Follow-My-Vote.pdf), [source code](https://github.com/FollowMyVote/StakeWeightedVoting/), [bitshares forum](https://bitsharestalk.org/index.php?board=63.0)
-* [Public Votes](http://publicvotes.org/) Ethereum voting application by Dominik Schiener: [proposal](http://schiener.me/2015/openvotes-voting/), [source code](https://github.com/domschiener/publicvotes), [analytics](http://schiener.me/2015/voting-on-ethereum-analysis/)
-* Borgstrup, Jesper (2014): Private, trustless and decentralized
-message consensus and voting schemes, [PDF](https://jesper.borgstrup.dk/master-thesis-report.pdf), Master Thesis
+[DemocracyOS](http://democracyos.org/) is a web-application from Argentina which allows you to propose, debate and vote online. The team discussed blockchain integration back in 2015 [once](http://blog.democracyos.org/post/114076491913/blockchain-support-for-democracyos-we-want-to-add) and [twice](http://blog.democracyos.org/post/122357355613/were-making-a-live-hangout-to-talk-decentralized). An article on Newschallange contains first [mockups](https://www.newschallenge.org/challenge/elections/entries/blockchain-support-for-open-source-platform-democracyos).
+
+![DemocracyOS Blockchain Mockup #1](img/dem_os_0.png)
+![DemocracyOS Blockchain Mockup #2](img/dem_os_1.png)
+
+[Democracy.earth](http://democracy.earth/) is a follow-up project by [Santiago Siri](https://www.youtube.com/watch?v=eOYcaRWMbyE) and [Pia Mancini](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era) from DemocracyOS who relocated to the United States recently. The project is currently creating a community, recruiting enthusiasts and researching on blockchain voting and identity.
+
+[Follow My Vote](https://followmyvote.com/), formerly 'Vote DAC' ([PDF](https://followmyvote.com/wp-content/uploads/2014/08/The-Key-To-Unlocking-The-Black-Box-Follow-My-Vote.pdf)) is a distributed autonomous company (DAC) emerged from the  [Bitshares community](https://bitsharestalk.org/index.php?board=63.0). It's currenlty [heavily developing](https://github.com/FollowMyVote/StakeWeightedVoting/) a stake-weighted blockchain voting DAC by a team around [Adam Kaleb Ernest](https://www.youtube.com/watch?v=TQMoKiP5q7Y).
+
+[Public Votes](http://publicvotes.org/) is an [Ethereum](http://ethereum.org) voting application designed and implemented by [Dominik Schiener](https://medium.com/@DomSchiener). Both his [proposal](http://schiener.me/2015/openvotes-voting/) and more recent [analytics](http://schiener.me/2015/voting-on-ethereum-analysis/) are highlighting advantages and issues arising with Ethereum and blockchain voting. The source code is available on [Github](https://github.com/domschiener/publicvotes).
+
+In 2014 [Jesper Borgstrup](https://jesper.borgstrup.dk/2015/01/masters-thesis-private-trustless-decentralized-message-consensus-voting-schemes/) wrote a master thesis on 'Private, trustless and decentralized message consensus and voting schemes' ([PDF](https://jesper.borgstrup.dk/master-thesis-report.pdf)). The protocol uses blockchain-technology and invertible bloom lookup tables for defining deadlines and timestamping of messages. Linkable ring signatures provide a scheme suitable for signing votes. Source code is available on [Github](https://github.com/jesperborgstrup/PyBitmessageVote).
+
+
 * BitVote, a timebased voting DApp on Ethereum [whitepaper](https://github.com/arkbg1/BitVote/wiki/*A*-plan), [video](https://www.youtube.com/watch?v=z-BtgF3oqoA), [demo](https://bitvote.github.io/)
 * [Nemos.io](http://nemos.io/) blockchain-proofed decision making on Ethereum without gas costs: [source code](https://github.com/netparty-france/nemos.io/)
 * [Blockchain Apparatus](http://blockchainapparatus.com/voting/) a blockchain secured voting machine
