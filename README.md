@@ -4,7 +4,9 @@
 
 ### Blockchain voting whitepaper
 
-The fundamental votechain [whitepaper](VOTECHAINS.md).
+* The overview on existing [solutions](VOTECHAINS.md).
+* The fundamental [whitepaper](WHITEPAPER.md).
+* The technical [yellowpaper](YELLOWPAPER.md).
 
 ### Authors
 
