@@ -10,6 +10,8 @@
 
 ***Draft***
 
+Democracy is out of fashion.
+
 ## Related Projects
 
 Below is a short overview of existing research, organizations and implementations of blockchain based democracy applications.
@@ -80,9 +82,10 @@ The team for [Appstimmung](http://appstimmung.de/) wants to provide a blueprint 
 
 ## Target Issues
 
-## Proposed Solutions
+## Next Steps
 
-## Outlook
+* Read the general specification [whitepaper](WHITEPAPER.md).
+* Read the technical specifaction [yellowpaper](WHITEPAPER.md).
 
 ## Contribute
 
